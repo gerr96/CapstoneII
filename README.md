@@ -3,9 +3,9 @@ Guillermo Rodriguez Second Project
 
 <body>
 <p>Home</p>
-<img src="../capstone-tacosmyguey-site/screenshots/capstone II first.PNG">
+<img src="./SS/capstoneFIRST.PNG">
 <p>Mountains</p>
-<img src="../capstone-tacosmyguey-site/screenshots/capstone II second.PNG">
+<img src="./SS/capstoneSECOND.PNG">
 <p>National Park</p>
-<img src="../capstone-tacosmyguey-site/screenshots/capstone II third.PNG">
+<img src="./SS/capstoneTHIRD.PNG">
 </body>
