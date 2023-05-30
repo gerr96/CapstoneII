@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(255, 255, 255);
+  }
+ 
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 6rem;
+    background: url("./images/leo-serrat_unsplash-1-1600x900.webp");
+  } 
+  
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .gallery-image {
+    max-width: 15rem;
+  }
